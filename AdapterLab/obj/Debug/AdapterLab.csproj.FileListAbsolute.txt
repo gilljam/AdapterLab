@@ -1,0 +1,6 @@
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\AdapterLab\bin\Debug\AdapterLab.exe.config
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\AdapterLab\bin\Debug\AdapterLab.exe
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\AdapterLab\bin\Debug\AdapterLab.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\AdapterLab\obj\Debug\AdapterLab.csprojResolveAssemblyReference.cache
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\AdapterLab\obj\Debug\AdapterLab.exe
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\AdapterLab\obj\Debug\AdapterLab.pdb

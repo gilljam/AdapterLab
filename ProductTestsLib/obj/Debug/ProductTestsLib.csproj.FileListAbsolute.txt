@@ -1,0 +1,5 @@
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\ProductTestsLib.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\ProductTestsLib.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\obj\Debug\ProductTestsLib.csprojResolveAssemblyReference.cache
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\obj\Debug\ProductTestsLib.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\obj\Debug\ProductTestsLib.pdb
