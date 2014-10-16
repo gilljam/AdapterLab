@@ -3,3 +3,9 @@ C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLi
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\obj\Debug\ProductTestsLib.csprojResolveAssemblyReference.cache
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\obj\Debug\ProductTestsLib.dll
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\obj\Debug\ProductTestsLib.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\AdapterLab.exe
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\ProductAdapterLib.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\ProductLib.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\AdapterLab.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\ProductAdapterLib.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\AdapterLab\ProductTestsLib\bin\Debug\ProductLib.pdb

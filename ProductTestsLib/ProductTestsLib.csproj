@@ -53,6 +53,20 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdapterLab\AdapterLab.csproj">
+      <Project>{51ff2e25-a7eb-4849-9d33-710d7d1eca86}</Project>
+      <Name>AdapterLab</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProductAdapterLib\ProductAdapterLib.csproj">
+      <Project>{f7cb1a10-85ce-4a2b-a285-adc67671bdc6}</Project>
+      <Name>ProductAdapterLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProductLib\ProductLib.csproj">
+      <Project>{efb282e0-394a-49d4-9644-6a851a28467c}</Project>
+      <Name>ProductLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

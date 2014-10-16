@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProductAdapterLib
 {
-    class SomeExternalVendorProduct
+    public class SomeExternalVendorProduct
     {
         public int PricePerUnit { get; set; }
         public string EANCode { get; set; }

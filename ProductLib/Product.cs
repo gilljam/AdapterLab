@@ -8,39 +8,42 @@ namespace ProductLib
 {
     public class Product : IProduct
     {
+        private decimal unitPrice;
         public decimal UnitPrice
         {
             get
             {
-                throw new NotImplementedException();
+                return unitPrice;
             }
             set
             {
-                throw new NotImplementedException();
+                unitPrice = value;
             }
         }
 
+        private string barCode;
         public string BarCode
         {
             get
             {
-                throw new NotImplementedException();
+                return barCode;
             }
             set
             {
-                throw new NotImplementedException();
+                barCode = value;
             }
         }
 
+        private string title;
         public string Title
         {
             get
             {
-                throw new NotImplementedException();
+                return title;
             }
             set
             {
-                throw new NotImplementedException();
+                title = value;
             }
         }
     }

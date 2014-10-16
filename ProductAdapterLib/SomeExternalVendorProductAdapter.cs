@@ -9,6 +9,10 @@ namespace ProductAdapterLib
 {
     public class SomeExternalVendorProductAdapter : IProduct
     {
+        public SomeExternalVendorProductAdapter(SomeExternalVendorProduct product)
+        {
+
+        }
         public decimal UnitPrice
         {
             get
